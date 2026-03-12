@@ -90,4 +90,4 @@ Open Google Colab, click on "Upload notebook", and select the .ipynb file.
 
 ## Author
 
-Raushan Kumar
+Raushan Yadav
