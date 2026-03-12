@@ -1,0 +1,17 @@
+# NEVER upload these to GitHub!
+kaggle.json
+.kaggle/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Data files (too large for GitHub)
+*.csv
+*.zip
+sentiment140.zip
+training.1600000.processed.noemoticon.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
